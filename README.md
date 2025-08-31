@@ -58,7 +58,7 @@ A final summary table shows the **best model per disease** with accuracy scores.
 
 2. Install required libraries:
    ```bash
-   pip install pandas numpy scikit-learn
+   pip install -r requirements.txt
 
 
 3. Place datasets (heart_disease.csv, diabetes.csv) in the project folder.
